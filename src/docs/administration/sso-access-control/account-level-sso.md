@@ -17,7 +17,7 @@ Login to an account with a specific role is defined with an Account and Role com
 The attribute value is in the format:
 `SPOTINST-<AccountId>-<Role>`
 
-The <AccountId> and <Role> are separated by a dash.
+The "<AccountId>" and "<Role>" are separated by a dash.
 
 ## Account and Policy
 
@@ -39,7 +39,7 @@ The format is shown below:
 The attribute value is in the format:
 `SPOTINST-<AccountId>:<PolicyId>`
 
-- The <AccountId> and <PolicyId> are separated by a colon.
+- The "<AccountId>" and "<PolicyId>" are separated by a colon.
 
 If multiple policies are applied to an account, the format is as follows:
 
